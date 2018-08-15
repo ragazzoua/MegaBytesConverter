@@ -7,6 +7,7 @@ public class Main {
         MegaBytesConverter megaBytesConverter = new MegaBytesConverter();
 
         megaBytesConverter.printMegabytesAndKilobytes(1026);
+        megaBytesConverter.printMegabytesAndKilobytes(2050);
         megaBytesConverter.printMegabytesAndKilobytes(-10);
     }
 }
